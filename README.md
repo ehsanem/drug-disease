@@ -1,2 +1,2 @@
 # Drug and Disease Information
-A website to provide information about drug and disease
+A website to provide drug and disease information
